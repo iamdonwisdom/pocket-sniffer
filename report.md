@@ -26,6 +26,16 @@ Develop a packet sniffer capable of capturing and analyzing network traffic in r
 
 The packet sniffer successfully captured live network traffic and classified packets based on protocol type while maintaining protocol statistics.
 
+## Screenshots
+
+### Live Packet Capture
+![Packet Capture](screenshots/capture1.png)
+
+### Source Code
+![Source Code](screenshots/capture2.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/capture3.png)
+
 ## Conclusion
 
-This project demonstrates fundamental network monitoring and packet analysis techniques used in cybersecurity and network administration.
